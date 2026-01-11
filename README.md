@@ -1,4 +1,8 @@
 # 🎧 Rhythm Hub – Music Streaming Web App
+## 📸 Project Screenshot
+
+![Rhythm Hub Screenshot](./screenshot.png)
+
 
 Rhythm Hub is a **Spotify-inspired music streaming application** built using **React + Vite**, focusing on clean UI, component-based architecture, and a smooth user experience.  
 This project was developed as part of my **frontend development learning journey** and is intended for **portfolio and demonstration purposes**.
